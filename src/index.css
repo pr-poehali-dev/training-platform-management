@@ -67,7 +67,7 @@
   h4,
   h5,
   h6 {
-    @apply font-golos font-700;
+    @apply font-golos font-bold;
   }
 }
 
