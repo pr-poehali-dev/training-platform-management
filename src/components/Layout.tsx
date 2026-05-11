@@ -32,7 +32,7 @@ export default function Layout({ children, title, onHome, showHome = true, user,
                     <Icon name="GraduationCap" size={18} className="text-[hsl(var(--corp-blue))]" />
                   </div>
                   <span className="font-golos font-semibold text-white tracking-wide text-sm uppercase">
-                    КорпЛМС
+                    ООО «Спектр»
                   </span>
                 </div>
               </div>
@@ -74,7 +74,7 @@ export default function Layout({ children, title, onHome, showHome = true, user,
 
       <footer className="border-t border-border bg-white py-4">
         <div className="max-w-7xl mx-auto px-6 text-center text-muted-foreground text-xs">
-          © 2025 КорпЛМС — Корпоративная система управления обучением
+          © 2025 ООО «Спектр» — Корпоративная система управления обучением
         </div>
       </footer>
     </div>

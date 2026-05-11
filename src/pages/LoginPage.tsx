@@ -58,7 +58,7 @@ export default function LoginPage({ onLogin }: LoginPageProps) {
             <div className="w-10 h-10 rounded-lg bg-[hsl(var(--corp-blue))]/20 flex items-center justify-center">
               <Icon name="GraduationCap" size={22} className="text-[hsl(var(--corp-blue))]" />
             </div>
-            <span className="font-golos font-bold text-white text-xl tracking-widest uppercase">КорпЛМС</span>
+            <span className="font-golos font-bold text-white text-xl tracking-widest uppercase">ООО «Спектр»</span>
           </div>
           <div className="w-8 h-0.5 bg-[hsl(var(--corp-blue))] ml-0.5 mt-1" />
         </div>
@@ -96,7 +96,7 @@ export default function LoginPage({ onLogin }: LoginPageProps) {
             <div className="w-9 h-9 rounded-lg bg-corp-navy flex items-center justify-center">
               <Icon name="GraduationCap" size={18} className="text-[hsl(var(--corp-blue))]" />
             </div>
-            <span className="font-golos font-bold text-foreground text-lg tracking-widest uppercase">КорпЛМС</span>
+            <span className="font-golos font-bold text-foreground text-lg tracking-widest uppercase">ООО «Спектр»</span>
           </div>
 
           <div className="mb-8">
